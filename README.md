@@ -1,16 +1,30 @@
-# eyezon
+# Eyezon 👁️📱
 
-A new Flutter project.
+**Eyezon** هو تطبيق موبايل تم تطويره باستخدام **Flutter** كمشروع تخرج، ويهدف إلى  
+(اكتب هنا فكرة التطبيق باختصار – مثال: مساعدة المستخدمين على … / مراقبة … / تحسين …).
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🎓 Project Type
+Graduation Project – Faculty of (اسم الكلية)  
+Department of (اسم القسم)  
+Academic Year: 2025 / 2026
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Features
+- ✨ واجهة مستخدم بسيطة وسلسة
+- 📱 يعمل على Android و iOS
+- ⚡ أداء سريع باستخدام Flutter
+- 🔒 (Feature مهمة عندك – تسجيل دخول، كاميرا، AI، إلخ)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Technologies Used
+- **Flutter**
+- **Dart**
+- (Firebase / API / ML / Camera / أي حاجة مستخدمها)
+
+---
+
+## 📂 Project Structure
