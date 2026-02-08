@@ -1,3 +1,4 @@
+import 'package:eyezon/core/routes/app_router.dart';
 import 'package:flutter/material.dart';
 import 'package:eyezon/features/home/presentation/views/home_view.dart';
 
@@ -10,9 +11,9 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return MaterialApp.router(
       debugShowCheckedModeBanner: false,
-      home: HomeView()
+      routerConfig: AppRouter.router,
     );
   }
 }
